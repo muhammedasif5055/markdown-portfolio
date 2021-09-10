@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+#### skills
+1. HTMl
+2. CSS
+3. GIT
